@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "New Arrival",
+    "subtitle": "Love your skin <br/>love the earth",
+    "image": "/assets/img/slider/single-slide-3.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Smart Products",
+    "subtitle": "Artisan soaps <br/> Body ButterS & OilS",
+    "image": "/assets/img/slider/single-slide-6.png",
+    "url": "/shop-grid-standard"
+  }
+]
